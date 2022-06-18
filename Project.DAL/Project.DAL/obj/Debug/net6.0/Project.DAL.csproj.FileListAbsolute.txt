@@ -1,0 +1,14 @@
+D:\Cinema2\Project.DAL\Project.DAL\obj\Debug\net6.0\Project.DAL.csproj.AssemblyReference.cache
+D:\Cinema2\Project.DAL\Project.DAL\obj\Debug\net6.0\Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cinema2\Project.DAL\Project.DAL\obj\Debug\net6.0\Project.DAL.AssemblyInfoInputs.cache
+D:\Cinema2\Project.DAL\Project.DAL\obj\Debug\net6.0\Project.DAL.AssemblyInfo.cs
+D:\Cinema2\Project.DAL\Project.DAL\obj\Debug\net6.0\Project.DAL.csproj.CoreCompileInputs.cache
+D:\Cinema2\Project.DAL\Project.DAL\bin\Debug\net6.0\Project.DAL.deps.json
+D:\Cinema2\Project.DAL\Project.DAL\bin\Debug\net6.0\Project.DAL.runtimeconfig.json
+D:\Cinema2\Project.DAL\Project.DAL\bin\Debug\net6.0\Project.DAL.dll
+D:\Cinema2\Project.DAL\Project.DAL\bin\Debug\net6.0\ref\Project.DAL.dll
+D:\Cinema2\Project.DAL\Project.DAL\bin\Debug\net6.0\Project.DAL.pdb
+D:\Cinema2\Project.DAL\Project.DAL\obj\Debug\net6.0\Project.DAL.dll
+D:\Cinema2\Project.DAL\Project.DAL\obj\Debug\net6.0\ref\Project.DAL.dll
+D:\Cinema2\Project.DAL\Project.DAL\obj\Debug\net6.0\Project.DAL.pdb
+D:\Cinema2\Project.DAL\Project.DAL\obj\Debug\net6.0\Project.DAL.genruntimeconfig.cache

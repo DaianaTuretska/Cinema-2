@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c33c37c-2e79-452b-b25e-8eb4803215ec": {
+      "ProjectGuid": "0c33c37c-2e79-452b-b25e-8eb4803215ec",
+      "DisplayName": "Cinema2",
+      "ColorIndex": 0
+    },
+    "14b6c8b1-33cf-49f1-9ab7-ce9833e184d9": {
+      "ProjectGuid": "14b6c8b1-33cf-49f1-9ab7-ce9833e184d9",
+      "DisplayName": "Project.DAL",
+      "ColorIndex": 1
+    },
+    "85a5200e-9f62-4549-a0af-b3170baa866c": {
+      "ProjectGuid": "85a5200e-9f62-4549-a0af-b3170baa866c",
+      "DisplayName": "Project.BLL",
+      "ColorIndex": 2
+    },
+    "201f6a2e-5413-46b7-95bc-f87e4de6ebf0": {
+      "ProjectGuid": "201f6a2e-5413-46b7-95bc-f87e4de6ebf0",
+      "DisplayName": "Project.DAL",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
