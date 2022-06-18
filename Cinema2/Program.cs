@@ -11,8 +11,12 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using TWS.BusinessLogicLayer.Data;
 using BLL.Registration;
+using Microsoft.OpenApi.Models;
+using Microsoft.AspNetCore.Mvc.ApplicationModels;
+using Cinema2;
 
 var builder = WebApplication.CreateBuilder(args);
+
 
 // Add services to the container.
 builder.Services.AddMapper();
@@ -61,6 +65,8 @@ builder.Services.AddAuthentication(options =>
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+
 
 var app = builder.Build();
 
